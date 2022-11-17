@@ -1,4 +1,9 @@
-<h1>Curso de Git e Github - Alura</h1>
+# Sistema de cadastro de jogos
 
-Status: Em andamento
+Status do projeto: Em andamento
 
+Para rodar esse projeto na sua máquina, por favor digite:
+
+'''
+node app.js
+'''
